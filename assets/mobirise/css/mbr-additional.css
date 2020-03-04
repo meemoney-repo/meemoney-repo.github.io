@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Kanit:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Itim:400&display=swap);
 
 
 
@@ -8,7 +8,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 3rem;
   font-display: swap;
 }
@@ -24,7 +24,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -40,7 +40,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -546,7 +546,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Kanit', sans-serif;
+  font-family: 'Itim', handwriting;
   font-size: 1rem;
   font-display: swap;
 }
@@ -2272,6 +2272,9 @@ section.lazy-placeholder:after {
 }
 .cid-rRLg7usi1n .mbr-section-subtitle {
   color: #767676;
+}
+.cid-rRLg7usi1n H2 {
+  text-align: center;
 }
 .cid-rRLqJRRHgY {
   background: #ffffff;
